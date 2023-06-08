@@ -6,7 +6,6 @@ A list of SQL resources that I've found useful for learning and practicing SQL
 4. [HackerRank](https://www.hackerrank.com/) - Practice coding challenges & prep for interviews / Network
 5. [DataCamp](https://datacamp.com) - Grow your data skills with DataCamp
 6. [Select Star SQL](https://selectstarsql.com/) - An interactive book to learn SQL on a real dataset.
-7. 
 
 # Gamified SQL Resources
 1. [The SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a Murder Mystery using your SQL Skills
@@ -14,3 +13,5 @@ A list of SQL resources that I've found useful for learning and practicing SQL
 
 # Handy Resources
 1. [SQL Style Guide](https://www.sqlstyle.guide/) - An excellent guide for making sure your code is readable. 
+
+More to come.
