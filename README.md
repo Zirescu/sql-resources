@@ -1,5 +1,4 @@
-# zirescu.github.io
-A list of SQL resources that I've found useful for learning and practicing SQL
+# A list of SQL resources that I've found useful for learning and practicing SQL
 1. [DataLemur](https://datalemur.com/?referralCode=5fammFLt) - Ace the SQL & Data Science Interview.  Has numerous free questions for SQL that you can try and also get hints on how to solve the question. 
 2. [PostgreSQL Exercises](https://pgexercises.com/) - Loads of great questions that you can try out with the expected results listed. 
 3. [Advanced SQL Window Function Quiz](http://www.windowfunctions.com/) - Test your knowledge of Modern SQL Window Functions
@@ -18,4 +17,4 @@ A list of SQL resources that I've found useful for learning and practicing SQL
 4. [Phind](https://www.phind.com/) - AI search engine for Developers
 
 More to come
-- Last edited: 2023-06-08 10:38 PST
+- Last edited: 2023-12-20 12:20 PST
