@@ -7,8 +7,10 @@
 6. [Select Star SQL](https://selectstarsql.com/) - An interactive book to learn SQL on a real dataset.
 
 # Gamified SQL Resources
-1. [The SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a Murder Mystery using your SQL Skills
-2. [SQL PD](https://sqlpd.com/) - Learn SQL while solving crime - Build queries by drag and drop. 
+1. [The SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a Murder Mystery using your SQL Skills.
+2. [SQL PD](https://sqlpd.com/) - Learn SQL while solving crime - Build queries by drag and drop.
+3. [SQL Squid Game](https://datalemur.com/sql-game) - Inspired by Netflix's Squid Game TV series.
+4. [Advent of SQL](https://adventofsql.com/) - 24 Days of SQL Challenges
 
 # Handy Resources
 1. [SQL Style Guide](https://www.sqlstyle.guide/) - An excellent guide for making sure your code is readable.
@@ -17,4 +19,4 @@
 4. [Phind](https://www.phind.com/) - AI search engine for Developers
 
 More to come
-- Last edited: 2023-12-20 12:20 PST
+- Last edited: 2025-01-19 11:42 PST
